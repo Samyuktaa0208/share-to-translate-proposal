@@ -22,7 +22,7 @@ Register Google Translate as a native Android image Share target, the same way G
 
 ## What's in this repo
 
-- **[`Share_to_Translate_Case_Study.pdf`](./Share_to_Translate_Case_Study.pdf)** — the full write-up: problem evidence, user personas, competitive analysis (Lens, Gemini, Meta AI, Samsung Translate, Apple Live Text), technical feasibility, privacy considerations, edge cases, success metrics, risk analysis, cost-benefit breakdown, and a proposed research plan (usability study + A/B test design) to validate the idea before any engineering investment.
+- **[`Share_to_Translate_Case_Study (1).pdf`](./Share_to_Translate_Case_Study.pdf)** — the full write-up: problem evidence, user personas, competitive analysis (Lens, Gemini, Meta AI, Samsung Translate, Apple Live Text), technical feasibility, privacy considerations, edge cases, success metrics, risk analysis, cost-benefit breakdown, and a proposed research plan (usability study + A/B test design) to validate the idea before any engineering investment.
 - **`mockup.png`** — a simple mockup of the proposed Share Sheet flow.
 
 ## Why this approach
